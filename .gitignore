@@ -1,0 +1,15 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment directories
+venv/
+env/
+
+# SpaCy model data
+*.spacy
+
+# System files
+.DS_Store
